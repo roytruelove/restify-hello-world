@@ -1,0 +1,16 @@
+{
+    "name": "restify-hello-world",
+    "author": "Roy Truelove <roytruelove@gmail.com>",
+    "description": "The most simple resify server around",
+    "repository": {
+        "type": "git",
+        "url": "TODO"
+    },
+    "engines": {
+        "node": ">= 0.8.4"
+    },
+    "dependencies": {
+        "restify": "1.4.4"
+    },
+    "version": "0.0.1"
+}
